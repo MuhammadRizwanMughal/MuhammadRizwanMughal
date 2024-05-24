@@ -13,7 +13,7 @@ With expertise in **Ruby on Rails, MERN (MongoDB, Express.js, React.js, Node.js)
 A collection of ReactJS/NextJS code snippets and patterns I've found useful in my projects.
 
 ### Rails Code Samples
-- [Tic Tac Toe game](https://github.com/tahairfan13/tic-tac-toe)
+- [Tic Tac Toe game](https://github.com/MuhammadRizwanMughal/tic-tak-toi)
 
 ## Featured Projects
 
