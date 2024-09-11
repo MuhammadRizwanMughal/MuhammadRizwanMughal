@@ -12,14 +12,14 @@ With expertise in **Ruby on Rails, MERN (MongoDB, Express.js, React.js, Node.js)
 ### [React Snippets Repository](https://github.com/tahairfan13/react_sample_snippets)
 A collection of ReactJS/NextJS code snippets and patterns I've found useful in my projects.
 
-### Rails Code Samples
+### Javascript game
 - [Tic Tac Toe game](https://github.com/MuhammadRizwanMughal/tic-tak-toi)
 
 ## Featured Projects
 
-### [OpTonal](https://optonal.com)
-**Technology:** Ruby on Rails  
-Optional leverages AI technology to swiftly analyze calls based on predefined prompts, providing users with actionable insights in seconds. With seamless integrations with Salesforce and HubSpot, users can push key information directly to their CRM, streamlining workflow processes. Customizable prompts and rapid analysis make Optonal a must-have tool for sales professionals seeking to maximize productivity and drive success.
+### [QalamAurKagaz App](https://qalamaurkagaz.com/)
+**Technology:** Flutter, Ruby on Rails  
+A global art platform offering courses and an e-commerce space for artists. QalamAurKagaz promotes learning and artistic expression, making art accessible to a worldwide audience.
 
 ### [The Walt](https://www.thewalt.io)
 **Technology:** Ruby on Rails  
@@ -28,18 +28,6 @@ TheWalt is a SaaS solution designed to streamline the hiring process. Leveraging
 ### [Ai.io Aiscout](https://www.ai.io)
 **Technology:** React.js  
 A comprehensive sports analytics platform, ai.io supports teams in various sports by providing real-time data and insights, facilitating strategic decisions for player development and recruitment.
-
-### [HeyPeers Webapp](https://www.heypeers.com)
-**Technology:** React, Ruby on Rails  
-An online community platform connecting individuals with support groups and coaches globally, enabling real-time communication and support.
-
-### [QalamAurKagaz App](https://qalamaurkagaz.com/)
-**Technology:** Flutter, Ruby on Rails  
-A global art platform offering courses and an e-commerce space for artists. QalamAurKagaz promotes learning and artistic expression, making art accessible to a worldwide audience.
-
-### [TWLM App](https://twlm.app)
-**Technology:** Flutter, Node.js  
-TWLM simplifies dining experiences with its food pickup and restaurant reservation app, offering seamless scheduling and prebooking options.
 
 ### [Artizyou Webapp](https://artizyou.com/index)
 **Technology:** Ruby on Rails, React.js  
