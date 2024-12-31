@@ -1,4 +1,4 @@
-# Muhammad Rizwan
+# Muhammad Rizwan(rizu3661@gmail.com)
 
 Welcome to my GitHub page! I'm Muhammad Rizwan, a passionate software developer with over 7 years of experience in crafting high-quality software solutions. My journey in the tech industry has been driven by my curiosity and dedication to solving complex problems, making life easier, and pushing the boundaries of what technology can achieve.
 
