@@ -100,7 +100,7 @@ I’m passionate about creating **modern, maintainable, and impactful web applic
 Whether it’s developing scalable APIs, architecting frontends with React and TypeScript, or deploying to AWS and Docker — I strive to build solutions that make a difference.  
 
 I’m always open to collaboration and new opportunities to learn, grow, and innovate.  
-Let’s connect on [LinkedIn](#) or explore my projects right here on GitHub.  
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-7b484514a/) or explore my projects right here on GitHub.  
 
 ---
 
