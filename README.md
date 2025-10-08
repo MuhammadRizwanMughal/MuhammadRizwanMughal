@@ -1,5 +1,5 @@
 # Muhammad Rizwan (Full-Stack Software Engineer)
-📧 **rizu3661@gmail.com** | 🌍 [LinkedIn](#) | [GitHub](https://github.com/MuhammadRizwanMughal)
+📧 **rizu3661@gmail.com** | 🌍 [LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-7b484514a/)
 
 Welcome to my GitHub! I'm **Muhammad Rizwan**, a **Full-Stack Software Engineer** with over **7 years of experience** in building scalable, high-quality software solutions.  
 My expertise spans **Ruby on Rails**, **React.js**, **Next.js**, **Vue.js**, and **Node.js**, with a strong focus on performance, scalability, and clean architecture.  
