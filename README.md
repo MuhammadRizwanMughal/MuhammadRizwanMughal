@@ -28,12 +28,6 @@ I enjoy transforming complex ideas into intuitive digital experiences across **S
 
 ## 🚀 Featured Projects
 
-### [Answerthepublic.com](https://answerthepublic.com)
-**Tech Stack:** Ruby on Rails, Next.js, PostgreSQL  
-Worked as a **Full-Stack Developer** handling both backend and frontend. Developed and maintained RESTful APIs, optimized database queries, and integrated third-party services. On the frontend, built dynamic, SEO-friendly pages in **Next.js** and ensured smooth API communication.
-
----
-
 ### [Meru.com](https://meru.com)
 **Tech Stack:** Ruby on Rails, Redis, Sidekiq, Stripe  
 Developed **REST APIs** for a **multi-tenant SaaS architecture**, integrated **Stripe payments**, and optimized background job processing using **Sidekiq** and **Redis**.
@@ -52,11 +46,6 @@ Developed a **blockchain-based digital rights platform** for artists to secure t
 
 ---
 
-### [Leafly.com](https://leafly.com)
-**Tech Stack:** Ruby on Rails, React.js  
-Contributed to the **review and moderation system**, improving the user experience through frontend enhancements and backend optimizations.
-
----
 
 ### [QalamAurKagaz App](https://qalamaurkagaz.com/)
 **Tech Stack:** Flutter, Ruby on Rails, Stripe API  
@@ -69,27 +58,13 @@ Worked on **CRM and marketing automation features** for the top legal growth pla
 
 ---
 
-### [TheWalt.io](https://thewalt.io)
-**Tech Stack:** Ruby on Rails  
-Developed SaaS features to streamline the **recruitment process**, enabling **data-driven decision-making** and automation for hiring teams.
-
----
-
 ### [Whoobid](#)
 **Tech Stack:** Ruby on Rails, Vue.js  
 Developed a **real-estate auction platform**, integrating payment systems, bid tracking, and real-time updates.
 
 ---
 
-### [Ai.io (AiScout)](https://www.ai.io)
-**Tech Stack:** React.js  
-Contributed to a **sports analytics platform** that delivers **real-time data and insights** for player performance and recruitment.
-
----
-
 ## 📚 Other Projects & Contributions
-
-- [React Snippets Repository](https://github.com/tahairfan13/react_sample_snippets) – A curated collection of reusable **React.js and Next.js** code patterns.  
 - [Tic Tac Toe Game](https://github.com/MuhammadRizwanMughal/tic-tak-toi) – A fun **JavaScript-based** browser game built using modular code and clean UI logic.
 
 ---
