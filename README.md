@@ -58,7 +58,7 @@ Worked on **CRM and marketing automation features** for the top legal growth pla
 
 ---
 
-### [Whoobid](#)
+### [Whoobid](https://www.whoobid.co.uk/)
 **Tech Stack:** Ruby on Rails, Vue.js  
 Developed a **real-estate auction platform**, integrating payment systems, bid tracking, and real-time updates.
 
