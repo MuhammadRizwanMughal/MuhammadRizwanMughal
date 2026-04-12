@@ -34,9 +34,9 @@ Developed **REST APIs** for a **multi-tenant SaaS architecture**, integrated **S
 
 ---
 
-### [Optional.com](https://optonal.com)
-**Tech Stack:** Ruby on Rails 7, Hotwire, Stimulus.js  
-Built the **MVP from scratch**, implementing **real-time notifications**, **authentication**, and a complete **admin dashboard** using **Turbo** and **Stimulus.js**.
+### [fresha.com](https://www.fresha.com/)
+**Tech Stack:** Ruby on Rails, REST APIs  
+Built a **salon management system** similar to Fresha, enabling **appointment booking, staff assignment, and product sales**. Developed scalable APIs for scheduling, customer management, and business operations with a focus on **efficiency and real-time booking flow**.
 
 ---
 
@@ -47,9 +47,9 @@ Developed a **blockchain-based digital rights platform** for artists to secure t
 ---
 
 
-### [QalamAurKagaz App](https://qalamaurkagaz.com/)
-**Tech Stack:** Flutter, Ruby on Rails, Stripe API  
-Built a **global platform for artists**, featuring **Arabic calligraphy courses** and integrated **e-commerce**. Developed product listings, cart flow, and **Stripe checkout** functionality.
+### [leafly.com](https://www.leafly.com/)
+**Tech Stack:** Ruby on Rails, React.js  
+Contributed to **Leafly**, a large-scale platform for user-generated reviews. Built and enhanced the **review system**, including APIs for submitting and managing reviews, with a focus on **performance, scalability, and seamless user experience**.
 ---
 
 ### [Lawmatics](https://www.lawmatics.com/)
@@ -61,6 +61,19 @@ Worked on **CRM and marketing automation features** for the top legal growth pla
 ### [Whoobid](https://www.whoobid.co.uk/)
 **Tech Stack:** Ruby on Rails, Vue.js  
 Developed a **real-estate auction platform**, integrating payment systems, bid tracking, and real-time updates.
+
+---
+
+
+### [nomivapr.com](https://www.nomivapr.com/)
+**Tech Stack:** Ruby on Rails, REST APIs  
+Developed a **payroll management system (Nomivapr)** for handling **employee salaries, attendance, and payroll processing**. Built APIs for salary calculations, deductions, and reporting, ensuring **accuracy, scalability, and efficient payroll operations**.
+
+---
+
+### [MyCarWash](https://www.mycarwash.tech/)
+**Tech Stack:** React.js, Ruby on Rails  
+Developed the **landing page for MyCarWash (mycarwash.tech)**, a platform for car wash service management and booking. Built a responsive and modern UI focused on **user engagement, service clarity, and conversion optimization**, ensuring a smooth experience across all devices.
 
 ---
 
