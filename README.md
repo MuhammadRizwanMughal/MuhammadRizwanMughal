@@ -1,4 +1,4 @@
-# Muhammad Rizwan (Full-Stack Software Engineer)
+# Muhammad Rizwan (Senior Full Stack AI Engineer | Building AI-Powered SaaS Products, Intelligent Agents & Scalable Web Platforms)
 📧 **rizu3661@gmail.com** | 🌍 [LinkedIn](https://www.linkedin.com/in/muhammad-rizwan-7b484514a/)
 
 Welcome to my GitHub! I'm **Muhammad Rizwan**, a **Full-Stack Software Engineer** with over **7 years of experience** in building scalable, high-quality software solutions.  
